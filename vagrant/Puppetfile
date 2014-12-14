@@ -1,0 +1,4 @@
+forge "https://forge.puppetlabs.com"
+
+mod "alup/rbenv"
+mod "puppetlabs/mysql"
